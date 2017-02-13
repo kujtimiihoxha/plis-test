@@ -1,0 +1,8 @@
+{
+    "dependencies": [
+        {
+            "rep": "git@github.com:kujtimiihoxha/plis-generator",
+            "branch": "master"
+        }
+    ]
+}

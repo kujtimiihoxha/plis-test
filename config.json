@@ -1,0 +1,5 @@
+{
+    "name":"test",
+    "description":"This is the 'test' plis generator ",
+    "script_type":"lua"
+}
