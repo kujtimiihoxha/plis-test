@@ -1,7 +1,7 @@
 {
     "dependencies": [
         {
-            "rep": "git@github.com:kujtimiihoxha/plis-generator",
+            "rep": "git@github.com:kujtimiihoxha/plis-tool",
             "branch": "master"
         }
     ]
